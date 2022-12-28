@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Nirusha ❤️.
+   * ⇆   ◁ㅤㅤ❚❚ㅤㅤ▷      ↻
+   * Contact Me on wa.me/94783541331
+   * █████████████▒▒▒▒▒▒▒▒▒▒▒ඇසින් නොදැකපු බොහෝ දේ මං දැක්කෙ මනසින්🧖‍♂️😇
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['+94783541331']
+global.ownernomer = "+94783541331"
+global.premium = ['+94783541331']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Nirusha ❤️'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -40,7 +40,7 @@ global.mess = {
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    bot: ' Nirusha Bot',
     wait: 'Loading...',
     error: 'Error!',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygit = 'https://youtube.com/@nirushachamod'
+global.myyt = 'https://youtube.com/@nirushachamod'
+global.myytv = 'https://youtube.com/@nirushachamod'
+global.mygc = "https://chat.whatsapp.com/C20IcqWbiXL9BRl85yoCLp"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Nirusha BOT'
+global.akulaku = 'Bot By Nirusha ❤️'
+global.ytname = 'YT Nirushachamod' 
 
 
 let file = require.resolve(__filename)
