@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Naze Dev.",
+  "author": "Nirusha.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -72,10 +72,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nazedev/naze-md.git"
+    "url": "git+https://youtube.com/@nirushachamod"
   },
   "bugs": {
-    "url": "https://github.com/nazedev/naze-md/issues"
+    "url": "https://youtube.com/@nirushachamod"
   },
-  "homepage": "https://github.com/nazedev/naze-md#readme"
+  "homepage": "https://youtube.com/@nirushachamod"
 }
