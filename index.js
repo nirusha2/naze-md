@@ -1,8 +1,9 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Nirusha ❤️.
+   * ⇆   ◁ㅤㅤ❚❚ㅤㅤ▷      ↻
+   * Contact Me on +94783541331
+   * Follow https://youtube.com/@nirushachamod
+
 */
 
 require('./config')
